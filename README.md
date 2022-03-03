@@ -5,6 +5,24 @@ You have the option to either choose a dataset from a curated list or propose yo
 
 If you choose a dataset from the curated list, inform your instructor which dataset you chose and jump right into the project. If you would like to propose your own dataset, run the dataset and business problem by your instructor for approval before starting your project.
 
+## Your Get Hired 'Game Plan'
+
+Help set yourself up for success by being strategic about your project/dataset choices.
+
+**Already know what your job search focus will be?** Consider choosing a dataset that relates to the companies/industries you are interested in and the types of business problems/data they navigate day to day. Doing so demonstrates your subject matter knowledge in their area, significantly elevating your relevance and value as a candidate -- we've seen this strategy WOW companies time and time again!
+
+**Still exploring what type of role you would like to get once you graduate?** That's okay! Try to focus on a topic or problem that you are interested in and passionate about. Doing so will help you produce a better project overall that you enjoy creating and that you can speak about confidently and naturally.
+
+Coming out of Flatiron School your projects will be listed on your resume and will showcase your specific subject matter knowledge and interest/passions once you're job seeking. Help yourself put your best foot forward and make the strongest first impression possible.
+
+Here are two grads who successfully did just this...
+
+> This student was interested in working with government and public sector data, and focused specifically on traffic data and safety. They utilized the Chicago Car Crashes dataset in [one project](https://github.com/jmarkowi/Chicago-Crashes)&#42; then later created a bike lane image dataset from multiple sources for their [capstone project](https://github.com/jmarkowi/NYC_bike_lanes)&#42;. Based on their combination of technical skills and subject-matter expertise, this student landed a government consulting role at ***ASR Analytics*** where they work to prevent identity theft in tax fraud.
+
+> This student ([GitHub link here](https://github.com/kbaranko/NYC-Building-Energy-Intensity/blob/master/README.md)&#42;) focused on working in the clean energy sector, and created their project *NYC Building Energy Density* using data from the 2016 Energy and Water Data Disclosure for New York City Local Law 84. The student landed a role at ***Kevala***, a clean energy software company, in under two months of job seeking.
+
+&#42;*Keep in mind that the Flatiron School Data Science program has changed over time, so these projects may or may not reflect the current project requirements. They are intended as inspiration for your dataset/project choice.*
+
 ## Curated List of Datasets
 
 You may select any of the datasets below - we provide brief descriptions of each. Follow the links to learn more about the dataset and business problems before making a final decision.

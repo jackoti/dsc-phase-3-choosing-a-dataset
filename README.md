@@ -37,7 +37,7 @@ Most naturally, your audience here would be the telecom business itself, interes
 
 ### 2) [Tanzanian Water Wells](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
 
-This dataset is part of an active competition until August 1, 2022!
+This dataset is part of an active competition until April 7, 2023!
 
 Tanzania, as a developing country, struggles with providing clean water to its population of over 57,000,000. There are many water points already established in the country, but some are in need of repair while others have failed altogether.
 
